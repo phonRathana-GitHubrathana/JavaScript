@@ -1,0 +1,83 @@
+HTML
+   <body/>
+
+</body>
+
+dependencies {
+
+  ...
+
+  implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
+
+  <html></html>
+
+  <body style="background-color:powderblue;"></body>
+
+  <table></table> <html></html>
+
+                     
+
+                      <tr></tr>
+
+                    <h1></h1>
+
+                 <h4></h4>
+
+                 <i><i>
+
+                 <style></style>
+
+              <button>Click Me!</button>
+
+           <html></html> httpsrathanaphon.Website.co.in.
+
+           analytics 4 <body style="background-color:powderblue;"></body>
+
+           
+
+           
+
+  <style>body{
+
+  background-color:powderblue;
+
+}</style><script></script> 
+
+
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+ន
+កំណែ ៖ ២
+updates:
+  - package-ecosystem : ""  #មើលឯកសារសម្រាប់តម្លៃដែលអាចធ្វើបាន
+    directory : "/"  # ទីតាំងនៃកញ្ចប់ manifests
+    schedule:
+      ចន្លោះពេល៖ "ប្រចាំសប្តាហ៍ 12/4/2023
+      // នាំចូលមុខងារដែលអ្នកត្រូវការពី SDKs ដែលអ្នកត្រូវការ
+
+នាំចូល { initializeApp } ពី "firebase/app";
+
+// TODO: បន្ថែម SDKs សម្រាប់ផលិតផល Firebase ដែលអ្នកចង់ប្រើ
+
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// ការកំណត់រចនាសម្ព័ន្ធ Firebase របស់កម្មវិធីគេហទំព័ររបស់អ្នក។
+
+const firebaseConfig = {
+
+  apiKey: "AIzaSyBeBA-7d8KcBGhLEUXJNurgwjtFUmmFM68",
+
+  authDomain៖ "httpsrathanaphonwebsiteco.firebaseapp.com",
+
+  projectId៖ "httpsrathanaphonwebsiteco",
+
+  storageBucket៖ "httpsrathanaphonwebsiteco.appspot.com",
+
+  messagingSenderId: "36947975269",
+
+  appId: "1:36947975269:web:502f234b2557cfa985fa8c"
+
+};
+
+// ចាប់ផ្តើម Firebase
+
+const app = initializeApp(firebaseConfig);
