@@ -1,0 +1,51 @@
+index.html.analytics
+<!-- manifest request -->
+
+<link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
+
+<link rel="canonical" href="https://httpsrathanaphon.websites.co.in/index.php">
+
+<link rel="alternate" href="https://httpsrathanaphon.websites.co.in" hreflang="en-us">
+
+<script>
+
+window.Laravel = {"csrfToken": "4FkmBWmaprPH9YwzameQ100gfzY5wuvUvJ9HoaB4"};
+
+</script>
+
+<!-- Google Analytics -->
+
+<script async>
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[ Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a, (window,document, 'script', 'https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-98172888-1', 'auto'); ga('send', 'pageview');
+
+</script>
+
+<!-- Flutterwave -->
+
+<!--<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<script<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=GT-WFMRKFW"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+  gtag('config', 'GT-WFMRKFW');
+
+</script>
+<1 Google Tag Manager (noscript) ==>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5M4CWT height="0" width="0" style="display:none;visibility:hidden"> </iframe></noscript> <!-- End Google Tag Manager (noscript) -->
