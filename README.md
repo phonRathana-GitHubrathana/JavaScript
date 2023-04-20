@@ -1,147 +1,180 @@
-# GitHubrathana
-Business Development.
-<!-- Google tag (gtag.js) -->
+<index.html>
+<head>
+<meta chargeset="UtF-8">
+<meta name="viewport"content="width=devi-width. inital-scale1">
+<title>Today'sData<title>
+<meta name="geo.region" content="KH">
+<title>Rathana phone Shop1 in  Phnom Penh </title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"};;(()=>{var e,t,r={8768:(e,t,r)=>{"use st"}
+<!-- Google Tag Manager -->
 
-<script async
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 
-src="https://www.googletagmanager.com/gtag/j
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 
-id=G-BNN4FJFBQ9"></script>
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
-<script>
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 
-window.dataLayer = window.dataLayer ||
+})(window,document,'script','dataLayer','GTM-T5M4CWT');</script>
+
+<!-- End Google Tag Manager -->
+
+<html analytics GA4>
+  <body>
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5M4CWT"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
 
 
 
-function gtag() {dataLayer.push(arguments);} gtag('js', new Date());
 
-gtag('config', 'G-BNN4FJFBQ9');
 
-</script>
-<!-- Event snippet for Contact conversion page --> <script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
-gtag('event', 'conversion", ['send_to': 'AW- 10919038707/1sHvCInI85AYEPOdzdY
-  0'});
-  </script>
-  <body/>
 
-</body>
 
-dependencies {
+ 
 
-  ...
 
-  implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
 
-  <html></html>
 
-  <body style="background-color:powderblue;"></body>
 
-  <table></table> <html></html>
+
+
+
+ 
+
+ 
+
+ 
+
+
 
                      
 
-                      <tr></tr>
+                   
 
-                    <h1></h1>
+                  
 
-                 <h4></h4>
+               
 
-                 <i><i>
+                 
 
-                 <style></style>
+               
 
-              <button>Click Me!</button>
+              
 
-           <html></html> httpsrathanaphon.Website.co.in.
-
-           analytics 4 <body style="background-color:powderblue;"></body>
+         
 
            
 
            
 
-  <style>body{
+           
 
-  background-color:powderblue;
+  
 
-}</style><script></script> 
-{
+  
 
-  "project_info": {
 
-    "project_number": "244145628679",
 
-    "project_id": "httpsrathanaphon.website.co",
 
-    "storage_bucket": "httpsrathanaphon.website.co.appspot.com"
 
-  },
 
-  "client": [
+    
 
-    {
+  
 
-      "client_info": {
 
-        "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",
 
-        "android_client_info": {
 
-          "package_name": "httpsrathanaphon.website.co"
 
-        }
+ 
 
-      },
+  
 
-      "oauth_client": [
+   
 
-        {
+       
 
-          "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+     
 
-          "client_type": 3
+         
 
-        }
+       
 
-      ],
+    
 
-      "api_key": [
+  
 
-        {
+        
 
-          "current_key": "AIzaSyAZwzbBslhqIFIc2c2-wJRru9PRcwpeu7I"
+          
 
-        }
+       
 
-      ],
+      
 
-      "services": {
+    
 
-        "appinvite_service": {
+    
 
-          "other_platform_oauth_client": [
+        
 
-            {
+        
 
-              "client_id": "244145628679-5lpa61gqs6naujcec6om73v6hbhrlpq7.apps.googleusercontent.com",
+        
 
-              "client_type": 3
+    
 
-            }
+   
 
-          ]
+      
 
-        }
+        
 
-      }
+            
 
-    }
+              
 
-  ],
+             
 
-  "configuration_version": "1"
+            
+
+          
+
+        
+
+      
+
+    
+
+
+
+
 
 }
