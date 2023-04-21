@@ -5,7 +5,7 @@
 <title>Today'sData<title>
 <meta name="geo.region" content="KH">
 <title>Rathana phone Shop1 in  Phnom Penh </title>
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"};;(()=>{var e,t,r={8768:(e,t,r)=>{"use st"}
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config;"account id6079216224()=>{var e,t,r={8768:(e,t,r)=>{"use st"}
 <!-- Google Tag Manager -->
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
