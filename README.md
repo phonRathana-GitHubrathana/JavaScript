@@ -1,5 +1,9 @@
-<index.html>
-<head>
+type <!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
 <meta chargeset="UtF-8">
 <meta name="viewport"content="width=devi-width. inital-scale1">
 <title>Today'sData<title>
